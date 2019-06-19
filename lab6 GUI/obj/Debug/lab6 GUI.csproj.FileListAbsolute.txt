@@ -1,0 +1,10 @@
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\bin\Debug\lab6 GUI.exe.config
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\bin\Debug\lab6 GUI.exe
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\bin\Debug\lab6 GUI.pdb
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6 GUI.csprojAssemblyReference.cache
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6_GUI.Form1.resources
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6_GUI.Properties.Resources.resources
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6 GUI.csproj.GenerateResource.cache
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6 GUI.csproj.CoreCompileInputs.cache
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6 GUI.exe
+C:\Users\DevilS\Desktop\Lab6-master\lab6 GUI\obj\Debug\lab6 GUI.pdb
